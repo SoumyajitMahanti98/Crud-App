@@ -1,0 +1,16 @@
+.read{
+    background-color: bisque;
+    max-width: 50%;
+    margin: auto;
+    padding: 5%;
+    position: absolute;
+    top: 20%;
+    left: 27%;
+}
+.backto__home{
+    background-color: blue;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    outline: none;
+}
